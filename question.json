@@ -1,0 +1,104 @@
+ [
+    {    
+    "question_id": 1,
+    "title": "How to implement authentication in a Flask app?",
+    "body": "I'm building a Flask application and I need to add user authentication. What are the recommended methods or libraries to achieve this?",
+    "tags": ["flask", "authentication", "web-development"],
+    "asker": {
+      "user_id": 789,
+      "username": "flasklover"
+    }
+  },
+  {
+    "question_id": 2,
+    "title": "Best practices for securing a Node.js API?",
+    "body": "I'm developing a Node.js API and I want to ensure it's secure. What are some best practices and security measures I should follow?",
+    "tags": ["node.js", "api", "security"],
+    "asker": {
+      "user_id": 345,
+      "username": "nodejsdev"
+    }
+  },
+  {
+    "question_id": 3,
+    "title": "How to deploy a React app to production?",
+    "body": "I've finished developing a React application and I'm ready to deploy it to production. What are the steps involved in deploying a React app to a live server?",
+    "tags": ["react", "deployment", "web-development"],
+    "asker": {
+      "user_id": 567,
+      "username": "reactdev"
+    }
+  },
+  {
+    "question_id": 4,
+    "title": "Optimizing performance of a Vue.js application?",
+    "body": "My Vue.js application is running slowly. What are some techniques or tools I can use to optimize its performance?",
+    "tags": ["vue.js", "performance", "frontend"],
+    "asker": {
+      "user_id": 678,
+      "username": "vuedev"
+    }
+  },
+  {
+    "question_id": 5,
+    "title": "How to handle form validation in Angular?",
+    "body": "I'm working on an Angular project and I need to implement form validation. What are the best practices for form validation in Angular?",
+    "tags": ["angular", "forms", "validation"],
+    "asker": {
+      "user_id": 789,
+      "username": "angulardude"
+    }
+  },
+  {
+    "question_id": 6,
+    "title": "Choosing between MongoDB and PostgreSQL for a new project?",
+    "body": "I'm starting a new project and I'm unsure whether to use MongoDB or PostgreSQL for the database. What factors should I consider when making this decision?",
+    "tags": ["database", "mongodb", "postgresql"],
+    "asker": {
+      "user_id": 890,
+      "username": "dbdilemma"
+    }
+  },
+  {
+    "question_id": 7,
+    "title": "How to structure a Redux store?",
+    "body": "I'm using Redux for state management in my React app and I'm unsure about the best way to structure the Redux store. What are some recommended patterns and practices?",
+    "tags": ["redux", "state-management", "react"],
+    "asker": {
+      "user_id": 901,
+      "username": "reduxlover"
+    }
+  },
+  {
+    "question_id": 8,
+    "title": "Best practices for writing clean code in Python?",
+    "body": "I want to improve the readability and maintainability of my Python code. What are some best practices and coding conventions I should follow?",
+    "tags": ["python", "coding-style", "clean-code"],
+    "asker": {
+      "user_id": 123,
+      "username": "pythonista"
+    }
+  },
+  {
+    "question_id": 9,
+    "title": "How to handle asynchronous code in JavaScript?",
+    "body": "I'm new to JavaScript and I'm having trouble understanding asynchronous programming. Can someone explain how to work with asynchronous code?",
+    "tags": ["javascript", "asynchronous", "callbacks"],
+    "asker": {
+      "user_id": 234,
+      "username": "jslearner"
+    }
+  },
+  {
+    "question_id": 10,
+    "title": "How to set up a CI/CD pipeline for a Dockerized application?",
+    "body": "I have a Dockerized application and I want to set up a continuous integration and continuous deployment pipeline. What tools and practices should I use?",
+    "tags": ["docker", "ci/cd", "devops"],
+    "asker": {
+      "user_id": 345,
+      "username": "dockerdev"
+    }
+  }
+]
+  
+  

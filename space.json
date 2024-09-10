@@ -1,0 +1,150 @@
+[
+    {
+      "id": 1,
+      "platform": "Spotify",
+      "icon": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3BvdGlmeXxlbnwwfHwwfHx8MA%3D%3D",
+      "followers": 80000,
+      "description": "Listen to your favorite music, discover new artists, and create personalized playlists. Follow us for the latest hits and music recommendations!"
+    },
+    {
+      "id": 2,
+      "platform": "TripAdvisor",
+      "icon": "https://plus.unsplash.com/premium_photo-1717014103890-bf3b1aa41890?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcEFkdmlzb3IlMjBpY29ufGVufDB8fDB8fHww",
+      "followers": 45000,
+      "description": "Explore travel destinations, read reviews, and plan your next vacation. Follow us for travel tips, inspiration, and insider guides!"
+    },
+    {
+      "id": 3,
+      "platform": "Tasty",
+      "icon": "https://plus.unsplash.com/premium_photo-1683396615090-a7b726059a2d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHRhc3R5JTIwJTIwYXBwcCUyMGljb258ZW58MHx8MHx8fDA%3D",
+      "followers": 60000,
+      "description": "Discover delicious recipes, cooking hacks, and food inspiration. Follow us for mouthwatering videos and culinary adventures!"
+    },
+    {
+      "id": 4,
+      "platform": "IMDb",
+      "icon": "https://th.bing.com/th?id=OIP.-kOXA98zYRLLVflA2knXcAHaDm&w=349&h=170&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2",
+      "followers": 35000,
+      "description": "Explore movies, TV shows, and celebrity news. Follow us for film recommendations, reviews, and behind-the-scenes insights!"
+    },
+    {
+      "id": 5,
+      "platform": "Snapchat",
+      "icon": "https://images.unsplash.com/photo-1611162617263-4ec3060a058e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c25hcGNoYXR8ZW58MHx8MHx8fDA%3D",
+      "followers": 50000,
+      "description": "Share moments with friends, express yourself with filters, and discover new stories. Follow us for fun and spontaneous snaps!"
+    },
+    {
+      "id": 6,
+      "platform": "Vogue",
+      "icon": "https://images.unsplash.com/photo-1608228088998-57828365d486?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dm9ndWV8ZW58MHx8MHx8fDA%3D",
+      "followers": 70000,
+      "description": "Experience the world of fashion, beauty, and style. Follow us for runway trends, fashion editorials, and exclusive interviews!"
+    },
+    {
+      "id": 7,
+      "platform": "TechCrunch",
+      "icon": "https://images.unsplash.com/photo-1703669059784-b40068f30c0c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmV3cyUyMGljb258ZW58MHx8MHx8fDA%3D",
+      "followers": 40000,
+      "description": "Stay updated on the latest tech news, startups, and gadgets. Follow us for in-depth analyses, product reviews, and industry insights!"
+    },
+    {
+      "id": 8,
+      "platform": "National Geographic",
+      "icon": "https://plus.unsplash.com/premium_photo-1712349034148-027721a55173?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmF0aW9uYWwlMjBnZW9ncmFwaGljfGVufDB8fDB8fHww",
+      "followers": 55000,
+      "description": "Explore the wonders of nature, science, and culture. Follow us for breathtaking photography, documentaries, and conservation efforts!"
+    },
+    {
+      "id": 9,
+      "platform": "Pinterest",
+      "icon": "https://images.unsplash.com/photo-1636044594149-6e2f289c3868?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGludGVyZXN0fGVufDB8fDB8fHww",
+      "followers": 120000,
+      "description": "Discover inspiration for your next project, recipe, or style. Follow us for curated boards filled with ideas and creativity!"
+    },
+    {
+      "id": 10,
+      "platform": "Reddit",
+      "icon": "https://images.unsplash.com/photo-1616509091215-57bbece93654?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "followers": 180000,
+      "description": "Join communities, share stories, and engage in discussions on a wide range of topics. Follow us for interesting content and lively debates!"
+    },
+    {
+      "id": 11,
+      "platform": "Tumblr",
+      "icon": "https://plus.unsplash.com/premium_photo-1683842189051-19fc4188df7d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHVtYmxyJTIwYXBwJTIwaWNvbnxlbnwwfHwwfHx8MA%3D%3D",
+      "followers": 60000,
+      "description": "Express yourself through multimedia posts, gifs, and blogs. Follow us for a diverse range of content and creative expression!"
+    },
+    {
+      "id": 12,
+      "platform": "WhatsApp",
+      "icon": "https://images.unsplash.com/photo-1614680376408-81e91ffe3db7?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGltZGIlMjBpY29ufGVufDB8fDB8fHww",
+      "followers": 350000,
+      "description": "Stay connected with friends and family, share moments, and communicate effortlessly. Follow us for tips and tricks on using WhatsApp!"
+    },
+    {
+      "id": 13,
+      "platform": "Discord",
+      "icon": "https://images.unsplash.com/photo-1614680376739-414d95ff43df?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGlzY29yZCUyMGFwcCUyMGljb258ZW58MHx8MHx8fDA%3D",
+      "followers": 90000,
+      "description": "Join gaming communities, chat with friends, and coordinate with teammates. Follow us for updates, events, and announcements!"
+    },
+    {
+      "id": 14,
+      "platform": "SoundCloud",
+      "icon": "https://plus.unsplash.com/premium_photo-1677589330393-e458a706f352?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c291bmRjbG91ZCUyMGFwcCUyMGljb258ZW58MHx8MHx8fDA%3D",
+      "followers": 140000,
+      "description": "Discover new music, support emerging artists, and share your own tracks. Follow us for a diverse range of sounds and genres!"
+    },
+    {
+      "id": 15,
+      "platform": "LinkedIn",
+      "icon": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGlua2VkSW4lMjBhcHAlMjBpY29ufGVufDB8fDB8fHww",
+      "followers": 200000,
+      "description": "Network with professionals, showcase your skills, and explore job opportunities. Follow us for career advice, industry insights, and more!"
+    },
+    {
+      "id": 16,
+      "platform": "Reddit",
+      "icon": "https://images.unsplash.com/photo-1554177255-61502b352de3?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D",
+      "followers": 280000,
+      "description": "Join communities, share stories, and engage in discussions on a wide range of topics. Follow us for interesting content and lively debates!"
+    },
+    {
+      "id": 17,
+      "platform": "Twitter",
+      "icon": "https://images.unsplash.com/photo-1611605698335-8b1569810432?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGltZGIlMjBpY29ufGVufDB8fDB8fHww",
+      "followers": 550000,
+      "description": "Stay updated with the latest news, trends, and conversations. Follow us for tweets on technology, politics, and more!"
+    },
+    {
+      "id": 18,
+      "platform": "YouTube",
+      "icon": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGltZGIlMjBpY29ufGVufDB8fDB8fHww",
+      "followers": 280000,
+      "description": "Watch entertaining videos, educational content, and tutorials. Subscribe to our channel for new videos every week!"
+    },
+    {
+      "id": 19,
+      "platform": "Snapchat",
+      "icon": "https://via.placeholder.com/50x50.png?text=Snapchat",
+      "followers": 240000,
+      "description": "Share moments with friends, express yourself with filters, and discover new stories. Follow us for fun and spontaneous snaps!"
+    },
+    {
+      "id": 20,
+      "platform": "TikTok",
+      "icon": "https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGltZGIlMjBpY29ufGVufDB8fDB8fHww",
+      "followers": 500000,
+      "description": "Explore trending challenges, viral dances, and creative content. Follow us for entertaining"
+    },
+    {
+      "id": 21,
+      "platform": "Netflex",
+      "icon": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGltZGIlMjBpY29ufGVufDB8fDB8fHww",
+      "followers": 1000000,
+      "description": "platform where you can watch movies, webSeries and many more thing just you have to pay for it"
+    }
+]
+  
